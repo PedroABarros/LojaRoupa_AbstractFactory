@@ -1,1 +1,1 @@
-# LojaRoupa_AbstractFactory
+Este projeto implementa o padrão de design Abstract Factory para uma loja de roupas. O sistema é organizado em torno de fábricas abstratas que produzem diferentes tipos de roupas (camisas e calças) em dois estilos: casual e formal.
